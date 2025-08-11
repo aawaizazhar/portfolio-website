@@ -1,4 +1,4 @@
-# 🎨 Aawaiz Azhar - Portfolio Website
+# Aawaiz Azhar - Portfolio Website
 
 A responsive and modern personal portfolio website built using HTML, CSS, and JavaScript. Designed to showcase my projects, skills, and experience in a clean, accessible, and performant way.
 
@@ -6,7 +6,7 @@ A responsive and modern personal portfolio website built using HTML, CSS, and Ja
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
@@ -21,9 +21,9 @@ A responsive and modern personal portfolio website built using HTML, CSS, and Ja
 
 ---
 
-## 📌 Overview
+## Overview
 
-### 🎯 The Challenge
+### The Challenge
 
 Building a personal portfolio website that:
 
@@ -33,20 +33,20 @@ Building a personal portfolio website that:
 - Loads quickly and performs well
 - Is accessible to all users
 
-### 🖼️ Screenshots
+### Screenshots
 
 | Desktop | Tablet | Mobile |
 |---------|--------|--------|
-| ![Desktop](./screenshots/Desktop-screenshot.png) | ![Tablet](./screenshots/Tablet-screenshot.png) | ![Mobile](./screenshots/Mobile-screenshot.png) |
+| <img src="./screenshots/Desktop-screenshot.png" height="500"> | <img src="./screenshots/Tablet-screenshot.png" height="500"> | <img src="./screenshots/Mobile-screenshot.png" height="500"> |
 
-### 🔗 Links
+### Links
 
 - **Live Site URL:** [View Live Demo](#)
 - **GitHub Repository:** [View Source Code](https://github.com/aawaizazhar/portfolio-website)
 
 ---
 
-## 🛠️ My Process
+## My Process
 
 ### Built With
 
@@ -58,7 +58,7 @@ Building a personal portfolio website that:
 - [Google Fonts](https://fonts.google.com/) - For typography
 - [Font Awesome](https://fontawesome.com/) - For icons
 
-### 🧠 What I Learned
+### What I Learned
 
 Building this portfolio website was a great learning experience that helped me improve my skills in several areas:
 
@@ -93,7 +93,7 @@ Building this portfolio website was a great learning experience that helped me i
 }
 ```
 
-### 🔍 Useful Resources
+###cUseful Resources
 
 - [MDN Web Docs](https://developer.mozilla.org/) - For comprehensive web development references
 - [CSS-Tricks](https://css-tricks.com/) - For modern CSS techniques and solutions
@@ -102,7 +102,7 @@ Building this portfolio website was a great learning experience that helped me i
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - For mastering CSS Grid
 - [Flexbox Froggy](https://flexboxfroggy.com/) - For learning Flexbox through interactive exercises
 
-## 👨‍💻 Author
+## Author
 
 👤 **Aawaiz Azhar**
 
